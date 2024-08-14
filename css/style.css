@@ -395,7 +395,7 @@ button {
     color: #8300ff;
 }
 .shop_bt_2 a:hover{
-    color: #599ee9;
+    color: #ff00ff;
 }
 
 .product_section{
@@ -684,7 +684,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #8300ff;
+    color: #ffffff;
     margin-left: 0px;
     margin-top: 0px;
 }
@@ -702,7 +702,7 @@ button {
     width: 100%;
     float: left;
     font-size: 28px;
-    color: #ff00ff;
+    color: rgb(235, 235, 235);
     font-weight: bold;
     padding: 25px 0px;
 }
@@ -745,7 +745,7 @@ button {
 }
 
 .useful_link li a{
-    color: #8300ff;
+    color: #ffffff;
 }
 
 .useful_link li a:hover{
@@ -816,4 +816,3 @@ button {
 .padding_video_0{
     margin-top: 0px; 
 }
-
