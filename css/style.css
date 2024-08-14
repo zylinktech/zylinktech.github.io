@@ -684,7 +684,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #8300ff;
     margin-left: 0px;
     margin-top: 0px;
 }
@@ -702,7 +702,7 @@ button {
     width: 100%;
     float: left;
     font-size: 28px;
-    color: rgb(235, 235, 235);
+    color: #ff00ff;
     font-weight: bold;
     padding: 25px 0px;
 }
@@ -745,7 +745,7 @@ button {
 }
 
 .useful_link li a{
-    color: #ffffff;
+    color: #8300ff;
 }
 
 .useful_link li a:hover{
